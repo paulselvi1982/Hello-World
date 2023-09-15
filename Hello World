@@ -1,0 +1,6 @@
+const helloWorld = () => {
+  const message = "Hello, World!";
+  return message;
+};
+
+console.log(helloWorld());
